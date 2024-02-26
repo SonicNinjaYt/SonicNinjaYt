@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SonicNinjaYt
 - 👀 I’m interested in coding language
-- 🌱 I’m currently learning FiveM server Making
-- 💞️ I’m looking to collaborate on Any Fivem Server
-- 📫 How to reach me Discord: SONIC NINJA#9231
+- 🌱 I’m currently working on web devlopment
+- 💞️ I’m looking to collaborate on Any  web devlopment
+- 📫 How to reach me Discord: SONIC NINJA#9231 OR Instagram : @thebabulalchoudhary
 
 <!---
 SonicNinjaYt/SonicNinjaYt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
