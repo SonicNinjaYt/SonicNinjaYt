@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @SonicNinjaYt
-- 👀 I’m interested in coding language
-- 🌱 I’m currently working on web devlopment
-- 💞️ I’m looking to collaborate on Any  web devlopment
-- 📫 How to reach me Discord: SONIC NINJA#9231 OR Instagram : @thebabulalchoudhary
+# Hi there, I'm Babulal Choudhary! 👋
 
-<!---
-SonicNinjaYt/SonicNinjaYt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about coding and currently focused on web development. Feel free to explore my repositories and projects. If you're interested in collaborating on web development projects, don't hesitate to reach out.
+
+## About Me
+- 👀 I’m interested in coding languages and exploring new technologies.
+- 🌱 I’m currently working on web development.
+- 💞️ I’m looking to collaborate on any web development projects, from simple websites to complex web applications.
+
+## 📫 Reach Me
+You can reach me via Discord or Instagram:
+- Discord: [SONIC NINJA#9231](https://discordapp.com/users/815515766689366017)
+- Instagram: [@thebabulalchoudhary](https://www.instagram.com/thebabulalchoudhary/)
+
+## 🔧 My Skills
+- HTML/CSS
+- bootstrap
+- JavaScript
+- jQuery
+- React.js
+- Node.js
+- PHP
+- Git/GitHub
+- SQL
+- etc.
+
+Feel free to connect and collaborate! 😊
